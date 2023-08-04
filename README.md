@@ -49,4 +49,9 @@ Also, replace `'your-directory-path'` in the script with the directory containin
 You can run the script in your terminal by navigating to the directory containing the script and running:
 
 ```bash
-python corpusCounter.py
+python corpusCounter.py 
+```
+
+## Contributing
+
+If you would like to contribute, please feel free to open an issue or pull request.
